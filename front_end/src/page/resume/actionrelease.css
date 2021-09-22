@@ -1,0 +1,93 @@
+.背景2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background: rgb(206, 206, 206);
+    width: 100%;
+    height: 1000px;
+}
+
+.CC6 {
+    font-family: initial;
+    font-size: x-large;
+    font-weight: bolder;
+    width: 100px;
+}
+
+.Part1 {
+    position: absolute;
+    left: 10%;
+    right: 600px;
+    top: 150px;
+    background: rgb(206, 206, 206);
+    height: 100px;
+}
+
+.Part2 {
+    position: absolute;
+    left: 10%;
+    right: 600px;
+    top: 300px;
+    background: rgb(206, 206, 206);
+    height: 100px;
+}
+
+.Part3 {
+    position: absolute;
+    left: 10%;
+    right: 600px;
+    top: 450px;
+    background: rgb(206, 206, 206);
+    height: 100px;
+}
+
+.Part4 {
+    position: absolute;
+    left: 10%;
+    right: 600px;
+    top: 600px;
+    background: rgb(206, 206, 206);
+    height: 100px;
+}
+
+.Part5 {
+    position: absolute;
+    left: 50%;
+    right: 0px;
+    top: 150px;
+    background: rgb(206, 206, 206);
+    height: 300px;
+}
+
+.Part6 {
+    position: absolute;
+    left: 83%;
+    right: 0px;
+    top: 640px;
+    background: rgb(206, 206, 206);
+    height: 100px;
+}
+
+.举措编号 {
+    width: 300px;
+}
+
+.举措时间 {
+    width: 300px
+}
+
+.所在省份 {
+    width: 300px
+}
+
+.举措类型 {
+    width: 300px
+}
+
+.举措详情 {
+    width: 500px
+}
+
+.Button2 {
+    width: 150px;
+}

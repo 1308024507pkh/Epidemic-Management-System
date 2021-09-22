@@ -1,0 +1,68 @@
+.背景 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background: rgb(206, 206, 206);
+    width: 100%;
+    height: 1000px;
+}
+
+.part1 {
+    position: absolute;
+    left: 400px;
+    right: 0px;
+    top: 150px;
+    background: rgb(206, 206, 206);
+    height: 100px;
+}
+
+.part2 {
+    position: absolute;
+    left: 400px;
+    right: 0px;
+    top: 300px;
+    background: rgb(206, 206, 206);
+    height: 100px;
+}
+
+.part3 {
+    position: absolute;
+    left: 400px;
+    right: 0px;
+    top: 450px;
+    background: rgb(206, 206, 206);
+    height: 100px;
+}
+
+.part4 {
+    position: absolute;
+    left: 400px;
+    right: 0px;
+    top: 600px;
+    background: rgb(206, 206, 206);
+    height: 100px;
+}
+
+.part5 {
+    position: absolute;
+    left: 600px;
+    right: 0px;
+    top: 700px;
+    background: rgb(206, 206, 206);
+    height: 100px;
+}
+
+.Label1 {
+    width: 100px;
+    font-family: initial;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.Text {
+    width: 350px;
+}
+
+.Button1 {
+    width: 150px;
+}

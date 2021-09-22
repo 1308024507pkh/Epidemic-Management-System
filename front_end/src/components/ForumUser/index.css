@@ -1,0 +1,82 @@
+.App{
+  margin: 0 auto;
+  max-width: 980px;
+}
+.wrap{
+  height: 60px;
+  background: #001529;
+  color: #fff;
+}
+h1{
+  margin-bottom: 0px;
+  color: #fff;
+}
+.logo{
+  text-align: center;
+  line-height: 60px;
+}
+.line, .navList{
+  float: left;
+  height: 60px;
+}
+.navList li{
+  line-height: 60px;
+  border-bottom: none!important;
+}
+.ant-menu-item-selected{
+  background: none!important;
+}
+img{
+  width: 100%;
+}
+.ant-dropdown-trigger{
+  display: none!important;
+}
+.anticon-menu-unfold{
+  color: #fff;
+  font-size: 20px;
+}
+@media screen and (max-width: 950px ) {
+  .menu-right{
+    display: none;
+  }
+  .Home-logo{
+    position: relative;
+    width: 100%;
+  }
+  .line{
+    display: none;
+  }
+  .ant-dropdown-trigger{
+    display: block!important;
+    position: absolute;
+    right: 20px;
+    top: 40%;
+  }
+  .ant-dropdown-menu{
+    height: auto;
+  }
+  .ant-dropdown-menu-item{
+    line-height: 30px!important;
+    padding: 5px 15px;
+  }
+  .ant-dropdown-menu-item .anticon{
+    margin-right: 10px;
+  }
+}
+@media screen and (max-width: 850px ) {
+  .index{
+    display:block!important;
+  }
+  .index-link{
+    width: 100%!important;
+  }
+  .ant-menu{
+    display: flex;
+    justify-content: space-between;
+    border: 0px;
+  }
+  .ant-menu li{
+    border: 0px!important;
+  }
+}

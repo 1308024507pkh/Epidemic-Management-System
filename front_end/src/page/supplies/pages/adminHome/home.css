@@ -1,0 +1,32 @@
+.home-header{
+    display: flex;
+}
+.home-header-item{
+    font-size: 20px;
+    margin-left: -20px;
+    color: white;
+}
+.home-title{
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.header-right{
+    position: absolute;
+    display: flex;
+    right: 20px;
+    font-size: 20px;
+}
+.home-header-menu{
+    margin-left: 20px;
+}
+.home-content{
+    display: flex;
+    height: 100%;
+    min-height: 90vh;
+}
+.home-main{
+    width: 100%;
+}
+
+

@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.css';
+
+.container {
+    text-align: center;
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    padding: 10px 0px 10px 0px;
+    margin-top: 15px;
+}
+
+.table-container {
+    margin: auto;
+    width: 90%;
+}
+
+.input-width {
+    width: 220px;
+}

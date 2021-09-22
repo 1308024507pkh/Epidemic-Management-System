@@ -1,0 +1,25 @@
+.index{
+  display:flex;
+}
+/* 首页动态路由 */
+.index-link{
+  width: 254px;
+  text-align: center;
+}
+.index-link li{
+  border-right: 3px solid transparent;
+}
+.index-link .ant-menu-item-selected{
+  border-right-color: #1890ff;
+}
+/* 动态路由内容 */
+.index-list{
+  flex: 1;
+}
+.ant-list-item-meta-avatar{
+  padding-left: 20px;
+}
+.ant-pagination{
+    text-align: right;
+    margin-bottom: 15px;
+}

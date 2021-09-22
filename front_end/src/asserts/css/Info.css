@@ -1,0 +1,107 @@
+.Info_Login{
+    width: 25%;
+    background-color: white;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.Info_Create{
+    width: 50%;
+    background-color: white;
+    margin-top: 2.5%;
+    padding-top: 2.5%;
+    margin-left: 25%;
+    text-align: center;
+    background-image: url('../image/timgXFIKOJKO.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Info_Login Form{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.Info_Login #Select{
+    margin-left: 2%;
+    margin-bottom: 5%;
+}
+
+.Info_Create input{
+    width: 40%;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 8%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    padding-left: 2.5%;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.Info_Login button{
+    width: 40%;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 5.5%;
+    border-radius: 10px;
+}
+
+
+.Info_Create button{
+    color: black;
+    background-color: white;
+    border-color: #00478180;
+    transition-duration: 0.4s;
+    opacity: 0.8;
+    width: 90%;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 5.5%;
+    border-radius: 10px;
+}
+
+.Info_Create button:hover{
+    color: white;
+    background-color: #00478180;
+    border-color: #00478180;
+    opacity: 0.8;
+    width: 90%;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 5.5%;
+    border-radius: 10px;
+}
+
+.Info_Create #ZhuCe{
+    color: black;
+    background-color: white;
+    border-color: #00478180;
+    transition-duration: 0.4s;
+    opacity: 0.8;
+    width: 40%;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 5.5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+
+.Info_Create #ZhuCe:hover{
+    color: white;
+    background-color: #00478180;
+    border-color: #00478180;
+    opacity: 0.8;
+    width: 40%;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5.5%;
+    border-radius: 10px;
+}

@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "province": "北京",
+      "in": 2000,
+      "out": 500
+    },
+    {
+      "province": "上海",
+      "in": 90,
+      "out": 60
+    },
+    {
+      "province": "天津",
+      "in": 80,
+      "out": 50
+    },
+    {
+      "province": "重庆",
+      "in": 70,
+      "out": 40
+    },
+    {
+      "province": "浙江",
+      "in": 60,
+      "out": 30
+    },
+    {
+      "province": "江苏",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "新疆",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "西藏",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "青海",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "四川",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "山西",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "陕西",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "贵州",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "云南",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "宁夏",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "广东",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "广西",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "海南",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "福建",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "安徽",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "黑龙江",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "吉林",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "辽宁",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "河南",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "河北",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "江西",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "湖南",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "湖北",
+      "in": 10000,
+      "out": 2000
+    },
+    {
+      "province": "香港",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "台湾",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "内蒙古",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "山东",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "甘肃",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "澳门",
+      "in": 65,
+      "out": 35
+    },
+    {
+      "province": "南海诸岛",
+      "in": 65,
+      "out": 35
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+.NewMain #img{
+    position: relative;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    margin-top: 5%;
+    margin-left: 75%;
+    background-color: white;
+}
+
+.NewMain #img img{
+    width: 200px;
+}
+
+.NewMain #list{
+    background-color: white;
+    width:100%;
+    float: left;
+}
+
+.NewMain #tabs{
+    background-color: white;
+    width:50%;
+    float: left;
+    margin-left: 20%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}

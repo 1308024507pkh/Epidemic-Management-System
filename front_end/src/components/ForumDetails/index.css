@@ -1,0 +1,15 @@
+.details-link{
+  margin: 0 10px;
+}
+.reply-item {
+  display: block;
+  position: relative;
+}
+.reply-item .item-content{
+  padding: 15px 40px 10px 25px;
+}
+.reply-item .item-answer{
+  position: absolute;
+  top: 12px;
+  right: 40px;
+}

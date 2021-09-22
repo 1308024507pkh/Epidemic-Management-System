@@ -1,0 +1,31 @@
+.SuperOperator{
+    width: 70%;
+    text-align: center;
+    background-color: white;
+    margin-left: 17%;
+    margin-top: 5%;
+}
+
+
+.SuperOperator input{
+    width: 40%;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    padding-left: 2.5%;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.SuperOperator button{
+    width: 91%;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 2.5%;
+    margin-bottom: 5.5%;
+    margin-left: 2.5%;
+    border-radius: 10px;
+}

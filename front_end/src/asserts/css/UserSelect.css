@@ -1,0 +1,28 @@
+.UserSelect{
+    width: 10%;
+    margin-top: 5%;
+    float: left;
+}
+
+.UserSelect button{
+    color: black;
+    background-color: white;
+    border-color: #00478180;
+    transition-duration: 0.4s;
+    opacity: 0.8;
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.UserSelect button:hover{
+    color: white;
+    background-color: #00478180;
+    border-color: #00478180;
+    opacity: 0.8;
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+}

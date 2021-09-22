@@ -1,0 +1,137 @@
+.rightpart{
+    float:right;
+    width:35%;
+    margin:23px 10px;
+}
+
+.measure-list {
+    background-color: #FFF;
+    border-radius: 5px;
+    border: 1px solid #DDD;
+    min-height: 150px;
+    width:100%;
+}
+
+.measure-list h2{
+    padding: 20px 5px;
+}
+
+.measure-list h2 span{
+    font-size: 25px;
+    border-bottom: 2px solid #CCC;
+    padding: 10px 5px;
+}
+
+.measure-list:hover {
+    box-shadow: 0 0 5px 3px #CCC;
+}
+
+.measure-table{
+    padding-left:10px ;
+}
+
+.measure-table span{
+    float:right;
+}
+
+.measure-table li{
+    list-style: none;
+    height: 36px;
+    line-height: 36px;
+    border-bottom: 1px dashed gray;
+    text-indent: 15px;
+    font-size: 14px;
+    background:url(./province_icon/4.jpg) no-repeat center left;
+}
+
+.measure-table a{
+    text-decoration: none;
+    color: #06C;
+}
+
+.measure-table  a:hover{
+    text-decoration: underline;
+    color: red;
+}
+
+.about-me{
+    margin-top:50px;
+    background-color: #FFF;
+    border-radius: 5px;
+    border: 1px solid #DDD;
+    width:100%;
+    float:right;
+}
+
+.about-me:hover{
+    box-shadow: 0 0 5px 3px #CCC;
+}
+
+.about-me h2{
+    padding: 20px 15px;
+}
+
+.about-me h2 span{
+    font-size: 25px;
+    border-bottom: 2px solid #CCC;
+    padding: 10px 5px;
+}
+
+.about-me p{
+    padding-left: 10px;
+	line-height: 28px;
+    text-indent: 2em;
+    font-size:16px;
+}
+
+.leftpart {
+    float:left;
+    margin:23px 10px;
+    background-color: #FFF;
+    border-radius: 5px;
+    border: 1px solid #DDD;
+    padding: 5px 20px;
+    width: 60%;
+    min-height: 150px;
+}
+
+.leftpart:hover {
+    box-shadow: 0 0 5px 3px #CCC;
+}
+
+.measure-box{
+    padding-bottom: 20px;
+    border-bottom: 2px solid darkgray;
+}
+
+.measure-id Avatar{
+    border-bottom: 2px solid #FFF;
+}
+
+.measure-id .title{
+    font-size: 25px;
+    color:cornflowerblue;
+    border-bottom: 2px solid #CCC;
+    padding-bottom: 6px;
+}
+
+.measure-info {
+    margin: 10px 68px 15px;
+}
+
+.measure-content{
+    font-size: 17px;
+    text-indent: 2em;
+    line-height: 32px;
+}
+
+.footer {
+	clear: both;
+	text-align: center;
+	color: gray;
+    font-size: 17px;
+	border-top: 2px solid #CCC;
+	margin-top: 20px;
+    padding: 20px 0;
+    bottom:0px;
+}

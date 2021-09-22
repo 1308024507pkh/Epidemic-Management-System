@@ -1,0 +1,29 @@
+.Header{
+    background-color: #004681;
+    height: 50px;
+}
+
+.Header img{
+    float: left;
+    margin: 10px;
+    margin-left: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.Header input{
+    float: left;
+    margin: 10px;
+    height:25px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+}
+
+.Header button{
+    margin: 10px;
+    height:30px;
+    width: 100px;
+    border-radius: 10px;
+}
